@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Kursova_rabota
+namespace kurse_work
 {
     static class Program
     {
